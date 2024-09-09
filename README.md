@@ -33,8 +33,11 @@ git clone https://github.com/Jillian2003/Notes-DB_Project.git
 ## Usage:
 1.  cd path/to/Notes-DB_Project
 
-2. Run the application:
-$flask app.py
+2. Go into the virtural environment :
+   ./source/bin/myenv
+   
+4. Run the application:
+(myenv) $flask app.py
 
 3. Open your web browser and navigate to (http://localhost:5000).
 
