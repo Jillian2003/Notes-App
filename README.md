@@ -1,5 +1,9 @@
 
 # Notes App
+
+
+![Screenshot 2024-09-08 143627](https://github.com/user-attachments/assets/eb98fad0-a166-469d-8a5a-e0207a4852be)
+
 ## Description:
 
 The Notes App is a simple web application built with Flask, Peewee, and SQLite, allowing users to create, edit, and delete notes. It features user authentication and authorization, ensuring that each user can only access and modify their own notes.
